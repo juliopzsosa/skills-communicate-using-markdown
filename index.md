@@ -16,3 +16,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+- [X] Wake up
+- [X] Take a shower
+- [X] Get dress
+- [X] Have breakfast
+- [ ] Go to the office
